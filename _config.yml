@@ -3,7 +3,8 @@ name: 'Taoleb'
 description: 'taoleb_space是一个分享每日最新AI与自动驾驶前沿科技信息及个人博客的空间'
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
-baseurl: '/blog'
+url: https://taoleb.github.io  
+baseurl: /blog/      
 disqus: 'demowebsite'
 email: 'taoooooooleb@gmail.com'
 mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
