@@ -3,7 +3,7 @@ layout: post
 title:  "地平线&港大最新端到端进展！HE-Drive：VLM+扩散模型发大力"
 author: sal
 categories: [ Jekyll, tutorial ]
-image: assets/images/15.jpg
+image: assets/images/10142.png
 ---
 这篇论文提出了 HE-Drive，一个全新的以人类驾驶行为为中心的端到端自动驾驶系统。
 

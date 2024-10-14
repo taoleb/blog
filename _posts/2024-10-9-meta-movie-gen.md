@@ -4,7 +4,7 @@ title:  "全方位超越 Sora ，Meta 最新的 AI 视频模型"
 author: jane
 categories: [ 人工智能 , 新闻 ]
 image: assets/images/meta.jpg
-tags: [summer]
+tags: [featured]
 ---
 这两天，视频生成模型领域因为 Meta Movie Gen 的发布，又炸开了锅。
 行业内外感叹最多的地方，无外乎两点，一是生成效果自然逼真，还能同步生成与画面匹配的声音，很像当时 Sora 发布后引起的讨论和轰动；二是 Meta AI 的新模型自定义性很强，无论是视频画面比例，还是视频元素与细节，都能根据用户的需求进行调 整。

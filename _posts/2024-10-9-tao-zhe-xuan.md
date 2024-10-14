@@ -4,7 +4,6 @@ title:  "陶哲轩最新演讲：AI 将催生出一个大数学时代"
 author: jane
 categories: [ Jekyll, tutorial ]
 image: assets/images/1.jpg
-tags: [featured]
 ---
 名数学家陶哲轩在牛津大学的数学公开讲座中探讨了AI在科学和数学中的巨大潜力，特别是在近期DeepMind团队通过其技术取得的国际数学奥林匹克（IMO）银牌。本文将深入解读陶哲轩的观点，以及AI如何推动科学研究的未来。
 
