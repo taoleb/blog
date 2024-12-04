@@ -78,24 +78,6 @@ permalink: "/playground.html"
                 </div>
             </div>
         </div>
-
-        <!-- 持续研发中 -->
-        <div class="col-md-6 mb-4">
-            <div class="card h-100 shadow-sm">
-                <div class="card-body" style="background: linear-gradient(45deg, #2193b0, #6dd5ed);">
-                    <div class="d-flex align-items-center mb-3">
-                        <div class="flex-grow-1">
-                            <h2 class="card-title h4 mb-0 text-white">更多功能</h2>
-                            <p class="card-text text-white-50">持续研发中~~~~~~</p>
-                        </div>
-                        <div class="ml-3">
-                            <i class="fas fa-cogs fa-2x text-white"></i>
-                        </div>
-                    </div>
-                    <button class="btn btn-light" disabled>敬请期待</button>
-                </div>
-            </div>
-        </div>
     </div>
 </div>
 
@@ -125,8 +107,14 @@ permalink: "/playground.html"
 }
 .text-white-50 {
     opacity: 0.8;
+    font-size: 0.9rem;
+    line-height: 1.4;
 }
 .shadow-sm {
     box-shadow: 0 5px 15px rgba(0,0,0,0.1) !important;
+}
+.card-title {
+    font-size: 1.5rem;
+    font-weight: 600;
 }
 </style> 
